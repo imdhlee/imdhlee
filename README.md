@@ -2,7 +2,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imdhlee.imdhlee&left_color=green&right_color=red)
 
 <!--
 **imdhlee/imdhlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
